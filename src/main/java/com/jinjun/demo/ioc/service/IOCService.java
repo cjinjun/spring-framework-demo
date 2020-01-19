@@ -7,5 +7,5 @@ package com.jinjun.demo.ioc.service;
  **/
 public interface IOCService {
 
-    public String helloIoc();
+    String helloIoc();
 }
